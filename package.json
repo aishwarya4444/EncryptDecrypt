@@ -1,0 +1,18 @@
+{
+  "name": "redisLearn",
+  "version": "0.0.0",
+  "description": "Simple User Management App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "aisingh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "redis": "^2.7.1"
+  }
+}
